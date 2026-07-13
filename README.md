@@ -18,6 +18,7 @@
 - [무신사의 AI 코드 리뷰 프로세스 구축기](https://techblog.musinsa.com/%EB%AC%B4%EC%8B%A0%EC%82%AC%EC%9D%98-ai-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B5%AC%EC%B6%95%EA%B8%B0-3ddb3c674e56) ([pins](pins/musinsa-ai-code-review-process.md))
 - [\[번역\] 에이전트 코딩에서 쌓이는 이해 부채](https://velog.io/@typo/80-problem-in-agentic-coding) ([pins](pins/archive-entry.md))
 - [멀티플 (AI)](https://bzcf.io/meoltipeul-ai/) ([pins](pins/ai.md))
+- [\[GN#366\] AI가 재작성 비용을 낮추면 기술 부채는 사라질까 | GeekNews](https://news.hada.io/weekly/202628) ([pins](pins/gn-366-ai-geeknews.md))
 
 ## AI & Business
 
