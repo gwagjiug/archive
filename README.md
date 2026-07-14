@@ -21,6 +21,7 @@
 - [멀티플 (AI)](https://bzcf.io/meoltipeul-ai/) ([pins](pins/ai.md))
 - [\[GN#366\] AI가 재작성 비용을 낮추면 기술 부채는 사라질까 | GeekNews](https://news.hada.io/weekly/202628) ([pins](pins/gn-366-ai-geeknews.md))
 - [AI한테 테스트 코드를 맡겼더니 커버리지가 8배 올랐다 🚀 | by Dayeong Song | MUSINSA techblog — 무신사 테크 블로그](https://techblog.musinsa.com/ai%ED%95%9C%ED%85%8C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%A7%A1%EA%B2%BC%EB%8D%94%EB%8B%88-%EC%BB%A4%EB%B2%84%EB%A6%AC%EC%A7%80%EA%B0%80-8%EB%B0%B0-%EC%98%AC%EB%9E%90%EB%8B%A4-b4add7b664b9) ([pins](pins/ai-8-by-dayeong-song-musinsa-techblog.md))
+- [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html) ([pins](pins/understanding-is-the-new-bottleneck.md))
 
 ## AI & Business
 
