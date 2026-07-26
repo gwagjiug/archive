@@ -27,3 +27,5 @@
 ## AI & Business
 
 - [취미자본](https://cse.ac/jun/hobby-capital/) ([pins](pins/hobby-capital.md))
+- [AI 시대에 번영할 사람들 | GeekNews](https://news.hada.io/topic?id=31683) ([pins](pins/ai-geeknews.md))
+
