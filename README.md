@@ -15,6 +15,7 @@
 - [Start naming your useEffect functions, you will thank me later — Neciu Dan](https://neciudan.dev/name-your-effects) ([pins](pins/start-naming-your-useeffect-functions-you-will-thank-me-later-neciu-dan.md))
 - [(번역) 브레이크포인트 없이 UI 만들기](https://velog.io/@tap_kim/building-a-ui-without-breakpoints) ([pins](pins/ui.md))
 - [GitHub Stacked PR 공개 프리뷰 시작 | GeekNews](https://news.hada.io/topic?id=32001) ([pins](pins/github-stacked-pr-geeknews.md))
+- [작은 서버로 큰 트래픽을 버티는 법 — 하다 스튜디오 블로그](https://hada.io/blog/geeknews-cache-on-a-budget/) ([pins](pins/archive-entry-738de502.md))
 
 ## AI & Engineering
 
