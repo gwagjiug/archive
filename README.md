@@ -16,6 +16,7 @@
 - [(번역) 브레이크포인트 없이 UI 만들기](https://velog.io/@tap_kim/building-a-ui-without-breakpoints) ([pins](pins/ui.md))
 - [GitHub Stacked PR 공개 프리뷰 시작 | GeekNews](https://news.hada.io/topic?id=32001) ([pins](pins/github-stacked-pr-geeknews.md))
 - [작은 서버로 큰 트래픽을 버티는 법 — 하다 스튜디오 블로그](https://hada.io/blog/geeknews-cache-on-a-budget/) ([pins](pins/archive-entry-738de502.md))
+- [\[번역\] Fetch 스트림은 훌륭하지만, 업로드/다운로드 진행 상황 측정에는 적합하지 않습니다 — 오웬의 개발 이야기](https://devowen.com/543) ([pins](pins/fetch.md))
 
 ## AI & Engineering
 
