@@ -33,3 +33,6 @@
 - [취미자본](https://cse.ac/jun/hobby-capital/) ([pins](pins/hobby-capital.md))
 - [AI 시대에 번영할 사람들 | GeekNews](https://news.hada.io/topic?id=31683) ([pins](pins/ai-geeknews.md))
 
+## writing
+
+- [글쓰기를 놓을 때 잃는 것 | 북클럽 오리진](https://bookcluborigin.com/daily_notes/cX89vsyHOA) ([pins](pins/archive-entry-490d5670.md))
