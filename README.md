@@ -37,3 +37,5 @@
 ## writing
 
 - [글쓰기를 놓을 때 잃는 것 | 북클럽 오리진](https://bookcluborigin.com/daily_notes/cX89vsyHOA) ([pins](pins/archive-entry-490d5670.md))
+- [The Real Luxuries In Life | Feld Thoughts](https://feld.com/archives/2026/09/the-real-luxuries-in-life/) ([pins](pins/the-real-luxuries-in-life-feld-thoughts.md))
+
