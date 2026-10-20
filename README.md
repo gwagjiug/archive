@@ -40,3 +40,6 @@
 - [The Real Luxuries In Life | Feld Thoughts](https://feld.com/archives/2026/09/the-real-luxuries-in-life/) ([pins](pins/the-real-luxuries-in-life-feld-thoughts.md))
 - [지식기계에 대하여](https://jonghyuk.kim/about/) ([pins](pins/archive-entry-e2371ba6.md))
 
+## Technology and Labor
+
+- [2026년에 러다이트 운동은 가능할까?](https://jonghyuk.kim/articles/could-there-be-a-luddite-movement-in-2026/) ([pins](pins/2026.md))
